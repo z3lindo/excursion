@@ -20,6 +20,7 @@ h3 {
   font-family: Verdana;
   color: gray;
   font-size: 21px;
+  text-align: center;
 }
 a {
   display: block;
@@ -30,4 +31,18 @@ a {
 p {
   display: block;
   text-align: center;
+}
+.body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.footer img {
+  padding-top: 25px;
+  padding-left: 615px;
+}
+h5 {
+  color: gray;
+  text-align: right;
 }
