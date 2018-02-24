@@ -3,27 +3,17 @@
 }
 body {
   background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 h1 {
-  color: white;
   font-weight: normal;
-  text-align: center;
-  font-family: Verdana;
-
+  font-size: 50px;
 }
 h2 {
-  color: white;
   font-weight: 300;
   font-size: 42px;
-  text-align: center;
-  font-family: Verdana;
-}
-h3 {
-  font-family: Verdana;
-  color: gray;
-  font-size: 21px;
-  text-align: center;
-  font-weight: lighter;
 }
 a {
   display: block;
@@ -33,22 +23,9 @@ a {
   font-family: Verdana;
 }
 p {
-  display: block;
-  text-align: center;
-}
-.body img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-.footer img {
-  padding-top: 25px;
-  padding-left: 615px;
-}
-h5 {
   color: gray;
+  font-size: 21px;
+}
+.footer {
   text-align: right;
-  font-family: Verdana;
-  font-weight: lighter;
 }
