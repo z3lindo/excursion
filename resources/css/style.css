@@ -3,30 +3,34 @@
 }
 body {
   background-color: black;
-  font-family: Verdana;
 }
 h1 {
   color: white;
   font-weight: normal;
   text-align: center;
+  font-family: Verdana;
+
 }
 h2 {
   color: white;
   font-weight: 300;
   font-size: 42px;
   text-align: center;
+  font-family: Verdana;
 }
 h3 {
   font-family: Verdana;
   color: gray;
   font-size: 21px;
   text-align: center;
+  font-weight: lighter;
 }
 a {
   display: block;
   text-align: center;
   color: aquamarine;
   font-size: 16px;
+  font-family: Verdana;
 }
 p {
   display: block;
@@ -45,4 +49,6 @@ p {
 h5 {
   color: gray;
   text-align: right;
+  font-family: Verdana;
+  font-weight: lighter;
 }
